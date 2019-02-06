@@ -1,0 +1,177 @@
+               body{
+          	    width: 300px;
+          	    height: 200px;
+                   background-color: black;
+                   color: #eeeeee;
+                   margin: 15px;
+               }
+
+               a.black {
+                    background-color: black;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.blue {
+                    background-color: blue;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.grey {
+                    background-color: grey;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.green {
+                    background-color: #82B600;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.red {
+                    background-color: red;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.yellow {
+                    background-color: yellow;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.brown {
+                    background-color: #3D352A;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.tan {
+                    background-color: tan;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+                a.white {
+                    background-color: white;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a{
+                    margin: 4px;
+
+               }
+
+               a.bgblack {
+                    background-color: black;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.bgblue {
+                    background-color: blue;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.bggrey {
+                    background-color: grey;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.bggreen {
+                    background-color: #82B600;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.bgred {
+                    background-color: red;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.bgyellow {
+                    background-color: yellow;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.bgbrown {
+                    background-color: #3D352A;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               a.bgtan {
+                    background-color: tan;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+                a.bgwhite {
+                    background-color: white;
+                    width: 20px;
+                    height: 20px;
+                    display: inline-block;
+                    border: 1px solid #eeeeee;
+               }
+
+               input{
+                    display: inline-block;
+                    margin: 8px;
+               }
+
+               #developerName{
+                    color: red;
+                    float: right;
+               }
+
+               h4{
+                    background-color: #545454;
+                    margin: 2px;
+                    border: 1px solid white;
+                    padding: 3px;
+               }
+
+               hr{
+                    margin-bottom: 20px;
+               }
